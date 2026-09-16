@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Ahmed Ramadan</h1>
 
-<h3 align="center">Frontend Developer | Transitioning to Full Stack</h3>
+<h3 align="center">WEB DEVELOPER</h3>
 
 <p align="center">
-  I build modern, responsive, and user-friendly web applications — <br/>
-  and I'm expanding into backend development with Node.js, Express &amp; MongoDB.
+  I build fast, interactive, and visually engaging web applications using
+React, Next.js & Node.js, with a strong background in graphic design.
 </p>
 
 <p align="center">
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Tools**
@@ -58,7 +57,7 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 **Clinic Management System** — `React` `TypeScript` `Tailwind CSS` `Supabase`
 A full-featured system for managing patients, appointments, and doctor schedules.
@@ -66,21 +65,21 @@ A full-featured system for managing patients, appointments, and doctor schedules
 - Eliminated duplicate patient records via real-time phone number validation
 - Secured medical data with Role-Based Access Control (React Context + Supabase RLS)
 
-**Traveture** — `Node.js` `Express` `MongoDB` `Stripe` `React` `TypeScript` 
+**Traveture** — `React` `TypeScript` `Node.js` `Express` `MongoDB` `Stripe`
 A full-stack tour discovery and booking platform with real-time seat availability and secure checkout.
--Prevented overbooking under concurrent requests using MongoDB transactions to atomically validate and reserve seats
--Implemented cookie-based JWT authentication with access/refresh token rotation and role-based access control
--Integrated Stripe Checkout with signed webhook verification to confirm payments securely server-side
+- Prevented overbooking under concurrent requests using MongoDB transactions to atomically validate and reserve seats
+- Implemented cookie-based JWT authentication with access/refresh token rotation and role-based access control
+- Integrated Stripe Checkout with signed webhook verification to confirm payments securely server-side
 
 **AI Budget Planner** — `Next.js` `TypeScript` `Tailwind CSS` `OpenAI API`
 An e-commerce platform with an AI-powered Outfit Planner that suggests complete looks based on a user's budget and occasion.
 
 ---
 
-### 🌱 Currently
 
-- Building full-stack projects with **Node.js, Express & MongoDB**
-- Strengthening backend fundamentals — Authentication, REST APIs, Database Design
+### Currently
+
+- Strengthening backend fundamentals — Authentication, Database Design
 - Improving frontend architecture and scalable code patterns
 
 ---
